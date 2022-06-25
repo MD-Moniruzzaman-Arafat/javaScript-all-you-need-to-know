@@ -1,0 +1,11 @@
+var name = 'arafat';
+console.log(name);
+var name1 = "korim";
+console.log(name1);
+var number = 10;
+console.log(number);
+var number1 = 12.36;
+console.log(number1);
+console.log('my name is ' + name);
+console.log('my id is ' + number);
+console.log(number + number1);

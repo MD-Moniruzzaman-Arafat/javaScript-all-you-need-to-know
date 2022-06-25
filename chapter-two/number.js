@@ -1,0 +1,10 @@
+var number = 10;
+console.log(number);
+var number1 = 10.5;
+console.log(number1);
+var number2 = Number('50');
+console.log(number2);
+var max = Number.MAX_VALUE;
+console.log(max);
+var min = Number.MIN_VALUE;
+console.log(min);

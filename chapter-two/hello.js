@@ -1,0 +1,10 @@
+console.log('hello javascript');
+console.log("hello bangladesh");
+console.log(7);
+console.log(5 + 2);
+console.log('hero ' + 71);
+console.log("bangladesh " + 71);
+console.log('bangla' + 'desh');
+console.log("java " + "script");
+console.log(7.5);
+console.log('moniruzzaman' + " " + 'arafat');

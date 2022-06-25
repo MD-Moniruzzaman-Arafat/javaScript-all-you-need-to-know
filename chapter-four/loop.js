@@ -1,0 +1,1 @@
+// There are mainly tree type of loops : 1.for loop 2.while loop 3. do while loop

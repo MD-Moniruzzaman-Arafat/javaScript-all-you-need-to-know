@@ -1,0 +1,11 @@
+var str = 'arafat';
+console.log(str);
+var str2 = "hello how are you";
+console.log(str2);
+var str3 = `hello world`;
+console.log(str3);
+var str4 = String('hello');
+console.log(str4);
+var str5 = String(125);
+console.log(str5);
+console.log(typeof str5);
